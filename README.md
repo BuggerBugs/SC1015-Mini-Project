@@ -14,7 +14,7 @@ Here is an overview of the source code:
 
 ## Problem Definition 
 - Musical Artists sometimes have a limit on the number of songs they can release in an album. Being able to predict which ones will do better can help them decide which songs to include in their album for a **HIT** !!!
-* Our aim is to come up with the best model to predict how popular a song could be ( popularity score) based on it's audio features - song duration, acousticness, danceability, energy, instrumentalness, key, liveness, loudness, audio mode, speechiness, tempo, time signature and audio valence.
+* Our aim is to come up with the best model to predict how popular a song could be (popularity category) based on it's audio features - song duration, acousticness, danceability, energy, instrumentalness, key, liveness, loudness, audio mode, speechiness, tempo, time signature and audio valence.
 
 ## Models Used 
 We used 2 approaches to find the best model. 
