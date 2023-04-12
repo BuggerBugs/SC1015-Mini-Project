@@ -10,7 +10,7 @@ Here is an overview of the source code:
 
 ## Contributors 
 - @s-27-b (Bhargavi) - Data Visualisation, Regression Models
-* @BuggerBugs (Yang) - Data Preparation, Classification Models, Results Comparision
+* @BuggerBugs (Qi Yang) - Data Preparation, Classification Models, Results Comparision
 
 ## Problem Definition 
 - Musical Artists sometimes have a limit on the number of songs they can release in an album. Being able to predict which ones will do better can help them decide which songs to include in their album for a **HIT** !!!
