@@ -56,5 +56,6 @@ The models we used for **classification** are :
 * https://www.youtube.com/watch?v=6Nf1x7qThR8
 * https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
 * https://stackoverflow.com/questions/45053238/how-to-get-all-confusion-matrix-terminologies-tpr-fpr-tnr-fnr-for-a-multi-c
+* https://www.analyticsvidhya.com/blog/2021/10/implementing-artificial-neural-networkclassification-in-python-from-scratch/
 * https://www.youtube.com/watch?v=9yl6-HEY7_s&t=376s
 
