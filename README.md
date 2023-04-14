@@ -35,11 +35,16 @@ The models we used for **classification** are :
 3. Artificial Neural Networks
 
 ## Conclusions 
+* The best model to predict song popularity for this dataset is Random Forest (50.6% Accuracy)
+- Regression Models and non-oversampled classification models are not suitable in predicting song popularities from the lowest and highest categories in this dataset.
+* After using multiple models and techniques, we have realised that it is difficult to get a model with high accuracy to predict what song people would like, or dislike. 
+-A larger and less imbalanced dataset could be needed to reduce bias, as well as noise from oversampling, and ultimately train better performing models for artistes to utilise and decide which songs to include in their albums, or which ones to leave out!
 
 ## What did we learn from this project?
 * One hot encoding and dummy variable trap
 - Different models for regression - Stepwise, KNN, SVM.
-* Oversampling 
-- Different models for classification - ANN, decision tree and random forest
-* Creating repositories and collaborating on Github
+* SMOTE Oversampling technique
+- Different models for classification - Random Forest, Neural Networks
+* Hyperparameter optimization with keras tuner
+- Creating repositories and collaborating on Github
 
