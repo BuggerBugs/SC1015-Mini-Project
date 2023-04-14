@@ -29,7 +29,7 @@ The models we used for **regression** are :
 3. Support Vector Regression 
 4. K-nearest Neighbours Regression 
 
-Our second approach is to categorise all the song popularity scores into categories first, then train our classification models to predict the song popularity category.
+Our second approach is to categorise all the song popularity scores into categories first, then train our classification models on these popularity categories to predict the song popularity category.
 
 The models we used for **classification** are :
 1. Decision Trees 
