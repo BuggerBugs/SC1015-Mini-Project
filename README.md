@@ -50,3 +50,10 @@ The models we used for **classification** are :
 * Hyperparameter optimization with keras tuner
 - Creating repositories and collaborating on Github
 
+## References
+* https://towardsdatascience.com/a-beginner-friendly-explanation-of-how-neural-networks-work-55064db60df4
+* https://machinelearningmastery.com/multi-class-imbalanced-classification/
+* https://www.youtube.com/watch?v=9yl6-HEY7_s&t=376s
+* https://www.youtube.com/watch?v=6Nf1x7qThR8
+* https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+* https://stackoverflow.com/questions/45053238/how-to-get-all-confusion-matrix-terminologies-tpr-fpr-tnr-fnr-for-a-multi-c
