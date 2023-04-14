@@ -19,7 +19,7 @@ Here is an overview of the source code:
 ## Models Used 
 We used 2 approaches to find the best model. 
 
-Firstly, we used regression to predict the numerical value of the popularity score and then split into categories ( score from 0-25 : CAT 0, 26-50 : CAT 1 and so on).
+Firstly, we used regression to predict the numerical value of the popularity score and then split into categories ( score from 0-25 : CAT 0, 26-50 : CAT 1 , 51-75 : CAT 2, 76-100 : CAT 3 ).
 
 The models we used for **regression** are :
 1. Multi-Variate Linear Regression 
