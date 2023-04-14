@@ -22,6 +22,7 @@ Originally, the song popularity scores are from 0-100. We identified 4 categorie
 We used 2 approaches to find the best model. 
 
 Firstly, we used regression to predict the numerical value of the popularity score, then convert that predicted score into the popularity category of 0-3, and check against the actual song popularity category.
+
 The models we used for **regression** are :
 1. Multi-Variate Linear Regression 
 2. Stepwise Linear Regression 
