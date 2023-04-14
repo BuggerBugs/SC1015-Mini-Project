@@ -17,17 +17,18 @@ Here is an overview of the source code:
 * Our aim is to come up with the best model to predict how popular a song could be (popularity category) based on it's audio features - song duration, acousticness, danceability, energy, instrumentalness, key, liveness, loudness, audio mode, speechiness, tempo, time signature and audio valence.
 
 ## Models Used 
+Originally, the song popularity scores are from 0-100. We identified 4 categories, and want to predict the song's popularity category. Here are the popularity scores and their corresponding popularity categories: {0-25 : CAT 0, 26-50 : CAT 1 , 51-75 : CAT 2, 76-100 : CAT 3}
+
 We used 2 approaches to find the best model. 
 
-Firstly, we used regression to predict the numerical value of the popularity score and then split into categories ( score from 0-25 : CAT 0, 26-50 : CAT 1 , 51-75 : CAT 2, 76-100 : CAT 3 ).
-
+Firstly, we used regression to predict the numerical value of the popularity score, then convert that predicted score into the popularity category of 0-3, and check against the actual song popularity category.
 The models we used for **regression** are :
 1. Multi-Variate Linear Regression 
 2. Stepwise Linear Regression 
 3. Support Vector Regression 
 4. K-nearest Neighbours Regression 
 
-The second approach we tried is to categorise the popularity score beforehand and then predicted which category it will fall into using classification models.
+Our second approach is to categorise all the song popularity scores into categories first, then train our classification models to predict the song popularity category.
 
 The models we used for **classification** are :
 1. Decision Trees 
