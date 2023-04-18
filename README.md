@@ -19,7 +19,7 @@ Here is an overview of the source code:
 ## Models Used 
 Originally, the song popularity scores are from 0-100. We identified 4 categories, and want to predict the song's popularity category. Here are the popularity scores and their corresponding popularity categories: {0-24 : CAT 0, 25-49 : CAT 1 , 50-74 : CAT 2, 75-100 : CAT 3}
 
-         ![Categorising table](https://user-images.githubusercontent.com/114907001/232704876-d9a235ec-5361-4446-88ac-8a86486931e7.png)
+![Categorising table](https://user-images.githubusercontent.com/114907001/232704876-d9a235ec-5361-4446-88ac-8a86486931e7.png)
 
 
 We used 2 approaches to find the best model. 
