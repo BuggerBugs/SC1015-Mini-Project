@@ -61,4 +61,8 @@ The models we used for **classification** are :
 * https://www.analyticsvidhya.com/blog/2021/10/implementing-artificial-neural-networkclassification-in-python-from-scratch/
 * https://www.youtube.com/watch?v=9yl6-HEY7_s&t=376s
 * https://towardsdatascience.com/multi-class-classification-extracting-performance-metrics-from-the-confusion-matrix-b379b427a872
+* https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/
+* https://www.analyticsvidhya.com/blog/2020/03/support-vector-regression-tutorial-for-machine-learning/
+* https://www.youtube.com/watch?v=X38yCdQ_cWw
+* https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/
 
